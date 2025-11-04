@@ -1,0 +1,5 @@
+## Customer Segments
+
+
+---
+## Early Adopters
