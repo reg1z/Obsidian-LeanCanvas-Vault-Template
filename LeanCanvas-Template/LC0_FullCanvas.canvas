@@ -8,8 +8,8 @@
 		{"id":"f1f0f6b29cd7c1e6","type":"file","file":"vaults/LeanCanvas-Template/LC6_Channels.md","x":1000,"y":355,"width":400,"height":486,"color":"3"},
 		{"id":"f025939f1e2908da","type":"file","file":"vaults/LeanCanvas-Template/LC7_CustomerSegments.md","x":1440,"y":-131,"width":400,"height":972,"color":"3"},
 		{"id":"c6ae48c1759478f2","type":"file","file":"vaults/LeanCanvas-Template/LC8_CostStructure.md","x":-314,"y":880,"width":1074,"height":400,"color":"1"},
-		{"id":"a40cacb1a623be81","x":800,"y":880,"width":1040,"height":400,"color":"#a2ff80","type":"file","file":"vaults/LeanCanvas-Template/LC9_RevenueStreams.md"},
-		{"id":"34b652709c8c27d2","x":-320,"y":-400,"width":778,"height":143,"type":"text","text":"# Description"}
+		{"id":"a40cacb1a623be81","type":"file","file":"vaults/LeanCanvas-Template/LC9_RevenueStreams.md","x":800,"y":880,"width":1040,"height":400,"color":"#a2ff80"},
+		{"id":"34b652709c8c27d2","type":"text","text":"# Description","x":-320,"y":-480,"width":840,"height":263}
 	],
 	"edges":[]
 }
